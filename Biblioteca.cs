@@ -18,7 +18,7 @@ namespace ProyectoGestionBiblioteca
             usuarioRegistrado.Add(usuario);
         }
 
-        public void registrarUsuario(Libro libro)
+        public void registrarLibro(Libro libro)
         {
             librosExistente.Add(libro);
         }
