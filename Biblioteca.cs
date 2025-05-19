@@ -8,8 +8,8 @@ namespace ProyectoGestionBiblioteca
 {
     public class Biblioteca
     {
-        private List<Libro> librosExistente = new List<Libro>();
-        private List<Usuario> usuarioRegistrado = new List<Usuario>();
+        public List<Libro> librosExistente = new List<Libro>();
+        public List<Usuario> usuarioRegistrado = new List<Usuario>();
 
 
 
