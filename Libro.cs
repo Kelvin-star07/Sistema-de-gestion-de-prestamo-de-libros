@@ -21,13 +21,12 @@ namespace ProyectoGestionBiblioteca
         }
 
 
-        public Libro(string Titulo, string Autor,string isbn, bool disponible)
+        public Libro(string Titulo, string Autor,string isbn)
         {
             this.Titulo = Titulo;
             this.Autor = Autor;
             this.ISBN = isbn;
-            this.Disponible = disponible;
-
+          
         }
 
 
