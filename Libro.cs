@@ -33,5 +33,19 @@ namespace ProyectoGestionBiblioteca
 
 
 
+        public void marcarComoDisponible()
+        {
+            this.Disponible = true;
+        }
+
+        public void marcarComoPrestado() 
+        {
+           this.Disponible = false;
+        
+        }
+
+
+
+
     }
 }
