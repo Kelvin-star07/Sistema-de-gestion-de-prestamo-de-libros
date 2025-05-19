@@ -10,8 +10,8 @@ namespace ProyectoGestionBiblioteca
     public class Usuario
     {
 
-       private string NombreCompleto { get; set; }
-       private int IdUsuario { get; set; }
+       public string NombreCompleto { get; set; }
+       public int IdUsuario { get; set; }
        private List<Libro> libroPrestado = new List<Libro>();
 
 
@@ -36,9 +36,16 @@ namespace ProyectoGestionBiblioteca
             libroPrestado.Add(libro);
 
         }
-      
 
-       
+
+
+        public List<Libro> obtenerLibrosPrestado()
+        {
+            return libroPrestado;
+        }
+
+
+
 
 
     }
