@@ -29,7 +29,12 @@ namespace ProyectoGestionBiblioteca
         
         }
 
-
+        public bool tienePrestado(Libro libro) 
+        {
+           
+            return libroPrestado.Contains(libro);
+        
+        }
 
         public void agregarPrestamo(Libro libro)
         {
@@ -37,6 +42,10 @@ namespace ProyectoGestionBiblioteca
 
         }
 
+        public void EliminarPrestamos( Libro libro) 
+        {
+            libroPrestado.Remove(libro);
+        }
 
 
         public List<Libro> obtenerLibrosPrestado()
