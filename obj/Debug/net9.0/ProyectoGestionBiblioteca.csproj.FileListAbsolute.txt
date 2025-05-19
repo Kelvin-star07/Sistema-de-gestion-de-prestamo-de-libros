@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\bin\Debug\net9.0\ProyectoGestionBiblioteca.exe
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\bin\Debug\net9.0\ProyectoGestionBiblioteca.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\bin\Debug\net9.0\ProyectoGestionBiblioteca.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\bin\Debug\net9.0\ProyectoGestionBiblioteca.dll
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\bin\Debug\net9.0\ProyectoGestionBiblioteca.pdb
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.dll
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\refint\ProyectoGestionBiblioteca.dll
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.pdb
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ProyectoGestionBiblioteca.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\code\excepsiones.cs\asp.net wed api\ProyectoGestionBiblioteca\ProyectoGestionBiblioteca\obj\Debug\net9.0\ref\ProyectoGestionBiblioteca.dll

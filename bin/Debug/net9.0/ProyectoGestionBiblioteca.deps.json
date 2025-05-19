@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ProyectoGestionBiblioteca/1.0.0": {
+        "runtime": {
+          "ProyectoGestionBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoGestionBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
