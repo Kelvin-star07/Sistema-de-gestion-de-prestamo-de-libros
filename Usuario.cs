@@ -1,12 +1,45 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ProyectoGestionBiblioteca
 {
-    internal class Usuario
+    public class Usuario
     {
+
+       private string NombreCompleto { get; set; }
+       private int IdUsuario { get; set; }
+       private List<Libro> libroPrestado = new List<Libro>();
+
+
+
+        public Usuario() 
+        {
+        
+        
+        }
+
+        public Usuario(string nombreCompleto, int id) 
+        {
+            this.NombreCompleto = nombreCompleto;
+            this.IdUsuario = id;
+        
+        }
+
+
+
+        public void agregarPrestamo(Libro libro)
+        {
+            libroPrestado.Add(libro);
+
+        }
+      
+
+       
+
+
     }
 }
