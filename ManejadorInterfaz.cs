@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 namespace ProyectoGestionBiblioteca
 {
     public class ManejadorInterfaz
-    {
-        private Biblioteca biblioteca;
-        private GestionarPrestamos _gestionarPrestamos;
+    { 
+        private  Biblioteca biblioteca = new Biblioteca();
+        private GestionarPrestamos _gestionarPrestamos = new GestionarPrestamos( new Biblioteca());
 
 
 
